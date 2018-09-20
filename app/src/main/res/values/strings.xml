@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="delete_all_notes">Delete All Notes</string>
+
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding Notes</string>
+
+    <string name="save_note">Save</string>
+    <string name="delete_note">Delete</string>
+
+    <string name="write_notes">Write Your Notes Here ...</string>
+    <string name="empty_list">No notes on List Please add some notes</string>
+
+    <string name="deleted">Notes Deleted</string>
+
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+
+    <string name="delete_dialog_msg">Delete this Note?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="unsaved_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_delete_note_successful">Note deleted</string>
+    <string name="editor_delete_note_failed">Error With Deleting Note</string>
+
+    <string name="editor_insert_note_failed">Error with saving Note</string>
+    <string name="editor_update_note_failed">Error with updating Note</string>
+
+    <string name="editor_update_note_successful">Note updated</string>
+    <string name="editor_insert_note_successful">Note saved</string>
+
+    <string name="note_required">Cannot save Empty Notes !!!</string>
+    <string name="Demo_note">Hello from the</string>
+    <string name="demo_date">2/3 2:30 Pm</string>
+
+
+</resources>
