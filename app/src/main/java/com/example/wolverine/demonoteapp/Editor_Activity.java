@@ -101,7 +101,6 @@ public class Editor_Activity extends AppCompatActivity implements LoaderManager.
         return super.onOptionsItemSelected(item);
     }
 
-
     private void showDeleteConfirmationDialog() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setMessage(R.string.delete_dialog_msg);
@@ -120,7 +119,6 @@ public class Editor_Activity extends AppCompatActivity implements LoaderManager.
         AlertDialog alertDialog = builder.create();
         alertDialog.show();
     }
-
 
     @Override
     public void onBackPressed() {
