@@ -236,7 +236,6 @@ public class Editor_Activity extends AppCompatActivity implements LoaderManager.
             mNoteTexttxt.setText(mNoteText);
         }
     }
-
     @Override
     public void onLoaderReset(Loader<Cursor> loader) {
         mNoteTexttxt.setText("");
